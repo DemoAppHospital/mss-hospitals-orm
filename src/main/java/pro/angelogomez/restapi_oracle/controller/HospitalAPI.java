@@ -14,7 +14,7 @@ import java.util.List;
 import java.util.Map;
 
 @RestController
-@RequestMapping("/v1/hospitals")
+@RequestMapping("/api/v1/hospitals")
 @CrossOrigin(origins = "http://localhost:4200")
 public class HospitalAPI {
 
